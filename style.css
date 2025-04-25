@@ -1,15 +1,14 @@
-style
-* {
-  box-sizing: border-box;
-}
-h1 
+
+h1
 {
   color: rgb(19, 160, 113);
-}
-nav {
-  float: left;
-  width: "30%";
-  height: "300px"; 
-  background: #ccc;
+  text-align: center;
+  background-color : powderblue;
   padding: "20px";
+}
+p
+{
+  padding : "100px"
+  
+
 }
