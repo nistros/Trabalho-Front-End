@@ -1,15 +1,17 @@
 
 h1
 {
-  color: rgb(19, 160, 113);
+  color: #fafafa;
   text-align: center;
-  background-color : powderblue;
-  padding: "20px";
+  background-color : rgb(0, 0, 0);
 }
-p
-{
-  padding : "100px"
+p {
+  color: rgb(0, 0, 0);
+  font-family: Trebuchet;
+  font-size: 160%;
+  margin: 0px;
+  text-align: end;
 }
 body {
-  background-color: powderblue;
+  background-color: rgb(255, 255, 255);
 }
