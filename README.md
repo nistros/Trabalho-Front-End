@@ -1,2 +1,3 @@
 # Trabalho-Front-End
-agora eu era o héroi, e meu cavalo só falava inglês, a noiva do cowboy era você além das outras três
+Bom, nesse trabalho eu fiz um site de receitas, cujo o mesmo só tem uma receita, que é uma das minhas prediletas, feita por minha vó.
+Eu tenho um apreço por ela, fiz um código simples mas funcional, adicionando div's ao invés de bordas e coisas assim, me certifiquei de customizar boa parte no style, nenhum código ficou conflitante, as fontes usadas foram as mesmas para manter o padrão tanto quanto a simplicidade do tal. Gostei da estilização que eu fiz, mudei praticamente tudo, deixei textos também simples para um melhor entendimento e maior clareza, o passo a passo é descritivo, com poucas margens de erro, em suma é isso, simples e funcional.
